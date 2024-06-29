@@ -1,12 +1,10 @@
-import React from 'react';
-
 import Agents from './agents/page';
-
+import React from 'react';
 export default function Home() {
   return (
     <>
     <Agents />
     </>
-   
+
   );
 }
